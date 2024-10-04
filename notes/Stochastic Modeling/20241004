@@ -1,0 +1,24 @@
+Empirical Performance of Alternative Option Pricing Models: Inspirations from the Introduction
+Markov vs. Non-Markov
+Markov: A process where the future state depends only on the present state and not on past states.
+Non-Markov: A process where the future state depends on both the present state and past states.
+Diffusion vs. Non-Diffusion
+Diffusion: A process that evolves continuously over time, with small, random increments. It's often described by a stochastic differential equation (SDE).
+Non-Diffusion: A process that can have sudden, discontinuous jumps.
+Poisson vs. Non-Poisson Jump Process
+Poisson: A jump process where the number of jumps in a given time interval follows a Poisson distribution.
+Non-Poisson: A jump process where the number of jumps is not Poisson-distributed.
+Mixture of Jump and Diffusion
+Mixture: A process that combines both diffusion and jump components. This allows for modeling both continuous and discontinuous changes.
+Stochastic Volatility vs. Constant Volatility
+Stochastic Volatility: A process where the volatility itself is a random variable, changing over time.
+Constant Volatility: A process where the volatility is assumed to be fixed.
+Random Jumps vs. Deterministic Jumps
+Random Jumps: Jumps that occur randomly, with a probability distribution.
+Deterministic Jumps: Jumps that occur at predetermined times or under specific conditions.
+Examples:
+
+Geometric Brownian Motion (GBM): A diffusion process with constant volatility, often used to model stock prices.
+Heston Model: A stochastic volatility model with diffusion components.
+Merton Jump-Diffusion Model: A model with a diffusion component and Poisson-distributed jumps.
+Bates Model: A model with stochastic volatility and Poisson-distributed jumps.
