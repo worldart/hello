@@ -1,0 +1,11 @@
+
+CIR Model
+
+The CIR model is a mathematical model used to describe the evolution of interest rates over time. It is a type of stochastic process commonly used in financial mathematics to model the dynamics of short-term interest rates. It is developed by John Cox, Jonathan Ingersoll, and Stephen Ross in 1985, the model belongs to the broader class of one-factor models that aim to capture the behavior of the short-term interest rate, which is crucial for pricing bonds and interest rate derivatives like options. Some Features of the CIR Model
+* Mean Reversion
+* Non-negativity
+* Volatility Term: The volatility depends on the square root of the current interest rate, meaning that volatility decreases as the interest rate approaches zero and increases when interest rates are high.
+The CIR model is highly applicable is
+* Bond Pricing
+* Interest Rate Derivatives
+* Risk Management
