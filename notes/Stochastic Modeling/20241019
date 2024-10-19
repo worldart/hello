@@ -1,0 +1,4 @@
+Put-Call parity
+
+Put_price = Call_price + K * np.exp(-r0 * T) -S0
+Put_price
