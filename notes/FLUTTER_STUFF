@@ -2,3 +2,15 @@ dart --disable-analytics
 
 flutter config --android-sdk="C:\TestFolder\AndroidSDK"
 flutter config --android-studio-dir="C:\Program Files\Android\Android Studio"
+
+flutter doctor -v
+
+
+
+
+
+
+
+
+
+
