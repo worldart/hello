@@ -9,7 +9,8 @@ java -version
 gradle -version
 
 
-
+*At the root of your project type below in the console:
+gradlew --version
 
 
 
